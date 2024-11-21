@@ -1,13 +1,14 @@
-* text=auto eol=lf
+# LF line-ending conversion. Will not be used for now.
+#* text=auto eol=lf
 
-*.cfg text
-*.fgd text
-*.rad text
-*.md text
-*.html text
-*.res text
-*.lst text
-*.scr text
-*.rc text
-*.vbsp text
-*.lua text
+#*.cfg text
+#*.fgd text
+#*.rad text
+#*.md text
+#*.html text
+#*.res text
+#*.lst text
+#*.scr text
+#*.rc text
+#*.vbsp text
+#*.lua text
